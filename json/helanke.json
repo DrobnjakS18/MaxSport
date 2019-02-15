@@ -1,0 +1,100 @@
+[
+    {
+            "id": 2,
+            "src": "proizvodi/helanke/adidas_helanke1.jpg",
+			"alt": "adidas",
+			"naziv": "NATURE TIGHT ADIDAS",
+			"cena": 4.079 
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/helanke/adidas_helanke2.jpg",
+			"alt": "adidas",
+			"naziv": "SPRAY TIGHT ADIDAS",
+			"cena": 4.079 
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/helanke/adidas_helanke3.jpg",
+			"alt": "adidas",
+			"naziv": "LONG TIGHT NEO  ADIDAS",
+			"cena": 4.439 
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/helanke/adidas_helanke4.jpg",
+			"alt": "adidas",
+			"naziv": "HELANKE 3/4 TIGHT ADIDAS",
+			"cena": 4.079 
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/helanke/nike_helanke1.jpg",
+			"alt": "nike",
+			"naziv": "RUN HELANKE NIKE",
+			"cena": 6.239 
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/helanke/nike_helanke2.jpg",
+			"alt": "nike",
+			"naziv": "EPIC NATURE RUN NIKE",
+			"cena": 5.939
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/helanke/nike_helanke3.jpg",
+			"alt": "nike",
+			"naziv": "PWK RUN TGHT NIKE",
+			"cena": 5.939
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/helanke/nike_helanke4.jpg",
+			"alt": "nike",
+			"naziv": "ZEN EPIC RUN RED NIKE",
+			"cena": 5.874
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/helanke/puma_helanke1.jpg",
+			"alt": "puma",
+			"naziv": "SWEAT PANTS PUMA",
+			"cena": 2.394
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/helanke/puma_helanke2.jpg",
+			"alt": "puma",
+			"naziv": "D.DEO BLUE EDITION PUMA",
+			"cena": 1.799
+    },
+    {
+            "id": 3,
+            "src": "proizvodi/helanke/reebok_helanke1.jpg",
+			"alt": "reebok",
+			"naziv": "HELANKE RCF REEBOk",
+			"cena": 5.249
+    },
+    {
+            "id": 3,
+            "src": "proizvodi/helanke/reebok_helanke2.jpg",
+			"alt": "reebok",
+			"naziv": "SPIKE TIGHT REEBOk",
+			"cena": 5.219
+    },
+    {
+            "id": 3,
+            "src": "proizvodi/helanke/reebok_helanke3.jpg",
+			"alt": "reebok",
+			"naziv": "RUN HELANKE REEBOk",
+			"cena": 4.799
+    },
+    {
+            "id": 3,
+            "src": "proizvodi/helanke/reebok_helanke4.jpg",
+			"alt": "reebok",
+			"naziv": "ACID FADE TIGHT REEBOk",
+			"cena": 4.079
+    }
+]

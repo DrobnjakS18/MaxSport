@@ -1,0 +1,114 @@
+[
+    {
+            "id": 2,
+            "src": "proizvodi/zenske_majice/adidas_majica1.jpg",
+			"alt": "adidas",
+			"naziv": "MAJICA SN WHITE ADIDAS",
+			"cena": 3.335
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/zenske_majice/adidas_majica2.jpg",
+			"alt": "adidas",
+			"naziv": "MAJICA SS ORANGE ADIDAS",
+			"cena": 3.335
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/zenske_majice/adidas_majica3.jpg",
+			"alt": "adidas",
+			"naziv": "MESH TEE WHITE ADIDAS",
+			"cena": 3.234
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/zenske_majice/adidas_majica4.jpg",
+			"alt": "adidas",
+			"naziv": "SPRAY PERF TANK ADIDAS",
+			"cena": 2.939
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/zenske_majice/hummel_majica1.jpg",
+			"alt": "hummel",
+			"naziv": "HERO BASELAYER HUMMEL",
+			"cena": 2.196
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/zenske_majice/hummel_majica2.jpg",
+			"alt": "hummel",
+			"naziv": "HERO JERSEY HUMMEL",
+			"cena": 1.876
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/zenske_majice/hummel_majica3.jpg",
+			"alt": "hummel",
+			"naziv": "ISABEL SS TEE HUMMEL",
+			"cena": 2.149
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/zenske_majice/hummel_majica4.jpg",
+			"alt": "hummel",
+			"naziv": "HAILEY TOP HUMMEL",
+			"cena": 2.149
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/zenske_majice/nike_majica1.jpg",
+			"alt": "nike",
+			"naziv": "TRN BLACK MAJICA W NIKE",
+			"cena": 5.099
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/zenske_majice/nike_majica2.jpg",
+			"alt": "nike",
+			"naziv": "FLSH ELMNT TOP NIKE",
+			"cena": 5.039
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/zenske_majice/nike_majica2.jpg",
+			"alt": "nike",
+			"naziv": "DRI-FIT CONTOUR NIKE",
+			"cena": 3.894
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/zenske_majice/nike_majica3.jpg",
+			"alt": "nike",
+			"naziv": "COOL RED BREEZE NIKE",
+			"cena": 3.594
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/zenske_majice/puma_majica1.jpg",
+			"alt": "puma",
+			"naziv": "MAJICA PUMA SWAGGER",
+			"cena": 2.279
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/zenske_majice/puma_majica2.jpg",
+			"alt": "puma",
+			"naziv": "PHOTO  LOGO PRINT PUMA",
+			"cena": 2.279
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/zenske_majice/puma_majica3.jpg",
+			"alt": "puma",
+			"naziv": "FILLED BLACK LOGO PUMA",
+			"cena": 2.279
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/zenske_majice/puma_majica4.jpg",
+			"alt": "puma",
+			"naziv": "MAJICA PUMA FILLED LOGO",
+			"cena": 1.799
+    }
+]

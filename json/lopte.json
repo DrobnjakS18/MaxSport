@@ -1,0 +1,107 @@
+[
+    {
+            "id": 2,
+            "src": "proizvodi/lopte/adidas_lopta1.jpg",
+			"alt": "adidas",
+			"naziv": "WORLD CUP OMB ADIDAS",
+			"cena": 14.879  
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/lopte/adidas_lopta2.jpg",
+			"alt": "adidas",
+			"naziv": "FINALE KIEV OMB ADIDAS",
+			"cena": 14.399
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/lopte/adidas_lopta3.jpg",
+			"alt": "adidas",
+			"naziv": " CONFED CUP OMB ADIDAS",
+			"cena": 10.379
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/lopte/adidas_lopta4.jpg",
+			"alt": "adidas",
+			"naziv": " HARDEN SIG ADIDAS",
+			"cena": 3.519
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/lopte/adidas_lopta5.jpg",
+			"alt": "adidas",
+			"naziv": "FINALE 17 COMP ADIDAS",
+			"cena": 3.719
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/lopte/hummel_lopta1.jpg",
+			"alt": "hummel",
+			"naziv": "ELITE HANDBALL HUMMEL",
+			"cena": 3.679
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/lopte/hummel_lopta2.jpg",
+			"alt": "hummel",
+			"naziv": "PREMIER HANDBALL HUMMEL",
+			"cena": 3.199
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/lopte/hummel_lopta3.jpg",
+			"alt": "hummel",
+			"naziv": "CONCEPT PLUS HUMMEL",
+			"cena": 5.519
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/lopte/hummel_lopta4.jpg",
+			"alt": "hummel",
+			"naziv": "PREMIER PLUS HUMMEL",
+			"cena": 2.399
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/lopte/hummel_lopta5.jpg",
+			"alt": "hummel",
+			"naziv": "ARENA HANDBALL HUMMEL",
+			"cena": 2.399
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/lopte/nike_lopta1.jpg",
+			"alt": "nike",
+			"naziv": "NK MAGIA FOOTBALL NIKE",
+			"cena": 5.599
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/lopte/nike_lopta2.jpg",
+			"alt": "nike",
+			"naziv": "ELITE COMPETITION NIKE",
+			"cena": 3.599
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/lopte/nike_lopta3.jpg",
+			"alt": "nike",
+			"naziv": "JORDAN HYPER GRIP NIKE",
+			"cena": 3.179
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/lopte/nike_lopta4.jpg",
+			"alt": "nike",
+			"naziv": "JFOOTBALLX DURO NIKE",
+			"cena": 2.819
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/lopte/nike_lopta5.jpg",
+			"alt": "nike",
+			"naziv": "NIKE FOOTBALL STRIKE",
+			"cena": 2.039
+    }
+]

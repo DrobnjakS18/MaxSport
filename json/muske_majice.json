@@ -1,0 +1,107 @@
+[
+    {
+            "id": 2,
+            "src": "proizvodi/muske_majice/adidas_majica1.jpg",
+			"alt": "adidas",
+			"naziv": "RUN MAJICA RS ADIDAS",
+			"cena": 3.719
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/muske_majice/adidas_majica2.jpg",
+			"alt": "adidas",
+			"naziv": "TS MAJICA DAME ADIDAS",
+			"cena": 3.359
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/muske_majice/adidas_majica3.jpg",
+			"alt": "adidas",
+			"naziv": "MAJICA PKNIT TEE ADIDAS",
+			"cena": 5.579
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/muske_majice/hummel_majica1.jpg",
+			"alt": "hummel",
+			"naziv": "JASPER SS PLAVA HUMMEL",
+			"cena": 2.994
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/muske_majice/hummel_majica2.jpg",
+			"alt": "hummel",
+			"naziv": "HERO BASELAYER HUMMEL",
+			"cena": 2.345
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/muske_majice/hummel_majica3.jpg",
+			"alt": "hummel",
+			"naziv": "VIGGO SS SIVA HUMMEL",
+			"cena": 2.149
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/muske_majice/nike_majica1.jpg",
+			"alt": "nike",
+			"naziv": "MAJICA SIVA NSW NIKE",
+			"cena": 4.379
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/muske_majice/nike_majica2.jpg",
+			"alt": "nike",
+			"naziv": "MAJICA CRNA BND NIKE",
+			"cena": 4.379
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/muske_majice/nike_majica3.jpg",
+			"alt": "nike",
+			"naziv": "MAJICA NSW TOP NIKE",
+			"cena": 4.374
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/muske_majice/puma_majica1.jpg",
+			"alt": "puma",
+			"naziv": "MAJICA TEC GRAPHI PUMA",
+			"cena": 1.499
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/muske_majice/puma_majica2.jpg",
+			"alt": "puma",
+			"naziv": "MAJICA PUMA BRAND",
+			"cena": 1.799
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/muske_majice/puma_majica3.jpg",
+			"alt": "puma",
+			"naziv": "MAJICA PUMA STYLE ",
+			"cena": 1.499
+    },
+    {
+            "id": 3,
+            "src": "proizvodi/muske_majice/reebok_majica1.jpg",
+			"alt": "reebok",
+			"naziv": "PERF BLEND REEBOK ",
+			"cena":3.359
+    },
+    {
+            "id": 3,
+            "src": "proizvodi/muske_majice/reebok_majica2.jpg",
+			"alt": "reebok",
+			"naziv": "RUN MAJICA OSR REEBOK ",
+			"cena": 2.999
+    },
+    {
+            "id": 3,
+            "src": "proizvodi/muske_majice/reebok_majica3.jpg",
+			"alt": "reebok",
+			"naziv": "ACTVCHL GRPHIC REEBOK ",
+			"cena": 2.819
+    }
+]

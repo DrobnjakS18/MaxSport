@@ -1,0 +1,93 @@
+[
+    {
+            "id": 2,
+            "src": "proizvodi/torbe/adidas_torbe1.jpg",
+			"alt": "adidas",
+			"naziv": "TORBA TRAINING ADIDAS",
+			"cena": 5.939
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/torbe/adidas_torbe2.jpg",
+			"alt": "adidas",
+			"naziv": "PERFECT GT ADIDAS",
+			"cena": 5.034
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/torbe/adidas_torbe3.jpg",
+			"alt": "adidas",
+			"naziv": "BETTER TB RED  ADIDAS",
+			"cena": 5.439
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/torbe/adidas_torbe4.jpg",
+			"alt": "adidas",
+			"naziv": "BETTER  GR1 ADIDAS",
+			"cena": 4.079
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/torbe/hummel_torbe1.jpg",
+			"alt": "hummel",
+			"naziv": "CLASSIC BEE WEEKEND  HUMMEL",
+			"cena": 5.874
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/torbe/hummel_torbe2.jpg",
+			"alt": "hummel",
+			"naziv": "CLASSIC BAG  HUMMEL",
+			"cena": 5.094
+    },
+    {
+            "id": 7,
+            "src": "proizvodi/torbe/hummel_torbe3.jpg",
+			"alt": "hummel",
+			"naziv": "AUTHENTIC SPORT HUMMEL",
+			"cena": 3.599
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/torbe/nike_torbe1.jpg",
+			"alt": "nike",
+			"naziv": "LFS TORBA PURPLE NIKE",
+			"cena": 4.739
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/torbe/nike_torbe2.jpg",
+			"alt": "nike",
+			"naziv": "AURA CLUB BLACK  NIKE",
+			"cena": 6.319
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/torbe/nike_torbe3.jpg",
+			"alt": "nike",
+			"naziv": "AURALUX TOTE NIKE",
+			"cena": 4.379
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/torbe/puma_torbe1.jpg",
+			"alt": "puma",
+			"naziv": "ARCHIVE SHOPPER PUMA",
+			"cena": 3.294
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/torbe/puma_torbe2.jpg",
+			"alt": "puma",
+			"naziv": "CAMPUS REPORTER PUMA",
+			"cena": 3.299
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/torbe/puma_torbe3.jpg",
+			"alt": "puma",
+			"naziv": "TORBA PUMA BLACK PRIME",
+			"cena": 3.519
+    }
+]

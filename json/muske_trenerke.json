@@ -1,0 +1,79 @@
+[
+    {
+            "id": 2,
+            "src": "proizvodi/muske_trenerke/adidas_trenerka1.jpg",
+			"alt": "adidas",
+			"naziv": "LFS TRENERKA ENERGIZE ADIDAS",
+			"cena": 8.639 
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/muske_trenerke/adidas_trenerka2.jpg",
+			"alt": "adidas",
+			"naziv": "WV LIGHTE CRNA ADIDAS",
+			"cena": 8.159
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/muske_trenerke/adidas_trenerka3.jpg",
+			"alt": "adidas",
+			"naziv": "RE-FOCUS TSADIDAS",
+			"cena": 5.939
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/muske_trenerke/adidas_trenerka4.jpg",
+			"alt": "adidas",
+			"naziv": "TIRO TS CRNA TSADIDAS",
+			"cena": 7.439
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/muske_trenerke/adidas_trenerka5.jpg",
+			"alt": "adidas",
+			"naziv": "COOL365 CRNA TSADIDAS",
+			"cena": 8.994
+    },
+    {
+            "id": 2,
+            "src": "proizvodi/muske_trenerke/adidas_trenerka6.jpg",
+			"alt": "adidas",
+			"naziv": "CO ENERGIZE TSADIDAS",
+			"cena": 11.099
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/muske_trenerke/nike_trenerka1.jpg",
+			"alt": "nike",
+			"naziv": "TRENERKA FCB NIKE",
+			"cena": 12.319
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/muske_trenerke/nike_trenerka2.jpg",
+			"alt": "nike",
+			"naziv": "TRENERKA NK DRY NIKE",
+			"cena": 12.319
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/muske_trenerke/nike_trenerka3.jpg",
+			"alt": "nike",
+			"naziv": "LFS TRENERKA NIKE",
+			"cena": 6.959
+    },
+    {
+            "id": 1,
+            "src": "proizvodi/muske_trenerke/nike_trenerka4.jpg",
+			"alt": "nike",
+			"naziv": "TRENERKA WVN NIKE",
+			"cena": 6.719
+    },
+    {
+            "id": 6,
+            "src": "proizvodi/muske_trenerke/puma_trenerka1.jpg",
+			"alt": "puma",
+			"naziv": "PUMA FRESH SWEAT",
+			"cena": 5.999
+    }
+]

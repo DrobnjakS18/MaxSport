@@ -1,0 +1,135 @@
+ [
+        {
+            "id": 2,
+            "src": "proizvodi/muske_patike/adidas1.jpg",
+			"alt": "adidas",
+			"naziv": "CRAZYPOWER ADIDAS",
+			"cena": 9.599   
+        },
+       {
+            "id": 2,
+            "src": "proizvodi/muske_patike/adidas2.jpg",
+			"alt": "adidas",
+			"naziv": "DERRICK ROSE 7 ADIDAS",
+			"cena": 10.554  
+        },
+        {
+            "id": 2,
+            "src": "proizvodi/muske_patike/adidas3.jpg",
+			"alt": "adidas",
+			"naziv": "CRAZYFLIGHT X ADIDAS",
+			"cena": 10.379  
+        },
+        {
+            "id": 5,
+            "src": "proizvodi/muske_patike/con1.jpg",
+			"alt": "converse",
+			"naziv": "BLACK MONO CONVERSE",
+			"cena": 10.379  
+        },
+        {
+            "id": 5,
+            "src": "proizvodi/muske_patike/con2.jpg",
+			"alt": "converse",
+			"naziv": "CHUCK II CONVERSE",
+			"cena": 4.495
+        },
+        {
+            "id": 5,
+            "src": "proizvodi/muske_patike/con3.jpg",
+			"alt": "converse",
+			"naziv": "STAR PLAYER CONVERSE",
+			"cena": 4.679  
+        },
+        {
+            "id": 7,
+            "src": "proizvodi/muske_patike/hummel1.jpg",
+			"alt": "hummel",
+			"naziv": "AEROCHARGE HB 220 HUMMEL",
+			"cena": 11.839  
+        },
+        {
+            "id": 7,
+            "src": "proizvodi/muske_patike/hummel2.jpg",
+			"alt": "hummel",
+			"naziv": "AEROCHARGE HB 180 HUMMEL",
+			"cena": 5.699 
+        },
+        {
+            "id": 7,
+            "src": "proizvodi/muske_patike/hummel3.jpg",
+			"alt": "hummel",
+			"naziv": "NORDIC ROOTS HUMMEL",
+			"cena": 4.945 
+        },
+         {
+            "id": 4,
+            "src": "proizvodi/muske_patike/nb1.jpg",
+			"alt": "newbalance",
+			"naziv": "NEW BALANCE MRL996KA",
+			"cena": 7.794 
+        },
+        {
+            "id": 1,
+            "src": "proizvodi/muske_patike/nike1.jpg",
+			"alt": "nike",
+			"naziv": "AIR MAX 2017 PLAVE NIKE",
+			"cena": 25.099
+        },
+        {
+            "id": 1,
+            "src": "proizvodi/muske_patike/nike2.jpg",
+			"alt": "nike",
+			"naziv": "RUN AIR MAX 2015 NIKE",
+			"cena": 20.099
+        },
+        {
+            "id": 1,
+            "src": "proizvodi/muske_patike/nike3.jpg",
+			"alt": "nike",
+			"naziv": "ZOOM KD10 SHOES NIKE",
+			"cena": 15.359 
+        },
+        {
+            "id": 6,
+            "src": "proizvodi/muske_patike/puma1.jpg",
+			"alt": "puma",
+			"naziv": "IGNITE LIMITLESS PUMA",
+			"cena": 8.499
+        },
+        {
+            "id": 6,
+            "src": "proizvodi/muske_patike/puma2.jpg",
+			"alt": "puma",
+			"naziv": "PUMA R698 HYPER CRVENE ",
+			"cena": 5.499  
+        },
+        {
+            "id": 6,
+            "src": "proizvodi/muske_patike/puma3.jpg",
+			"alt": "puma",
+			"naziv": "PREVAIL HYPER PUMA",
+			"cena": 5.499 
+        },
+        {
+            "id": 3,
+            "src": "proizvodi/muske_patike/reebok1.jpg",
+			"alt": "reebok",
+			"naziv": "CROSSFIT NANO 7.0 REEBOK",
+			"cena": 9.599
+        },
+        {
+            "id": 3,
+            "src": "proizvodi/muske_patike/reebok2.jpg",
+			"alt": "reebok",
+			"naziv": "ZPUMP FUSION 2.0 REEBOK",
+			"cena": 7.345 
+        },
+        {
+            "id": 3,
+            "src": "proizvodi/muske_patike/reebok3.jpg",
+			"alt": "reebok",
+			"naziv": "CROSSFIT SPEED  2.0 REEBOK",
+			"cena": 7.439
+        } 
+]
