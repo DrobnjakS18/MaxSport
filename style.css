@@ -1,0 +1,615 @@
+@font-face {
+    font-family:"maxsport";
+    src: url(zero&.ttf);
+}
+
+*
+{
+	margin:0;
+	padding:0;
+}
+
+body {
+    
+    background: white;
+}
+
+.okvir{
+    width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    
+    width:100%;
+    background: black;
+}
+
+nav {
+    
+    width:100%;
+    background: black;
+    padding-top: 30px;
+    position: relative;
+}
+
+
+nav ul li {
+    width: 200px;
+    display: inline-block;
+    list-style-type:none;
+    height:30px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+nav ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color:white;
+    font-family: maxsport;
+    font-size:22px;
+}
+
+nav ul li a:hover {
+    
+    color: #e3e319;
+}
+
+#logo h1{
+    
+    font-size:55px;
+    transform: rotate(-20deg);
+
+}
+
+.cisti {
+    clear:both;
+}
+
+#slider {
+    
+    margin-top: 30px;
+}
+
+#sportovi {
+    
+    width:100%;
+    height: 400px;
+}
+
+.sport_brend {
+    
+    width:25%;
+    display: inline-block;
+    margin-top: 150px;
+    float:left;
+}
+
+.sport_brend img {
+    
+    margin-left: 20px;
+    width: 200px;
+    height: 200px;
+    
+}
+.sport_brend_drugi{
+    width:33%;
+    display: inline-block;
+    margin-bottom: 150px;
+    float:left;;
+}
+
+.sport_brend_drugi img{
+    margin-left: 60px;
+    width: 200px;
+    height: 200px;
+}
+
+#popust {
+    
+    width:100%;
+    background: black;
+    color:white;
+    font-family: maxsport;
+    text-align: center;
+    font-size: 50px;
+    padding: 25px;
+}
+
+
+#popust h1:hover {
+    
+    color: #e3e319;
+}
+
+#pogledaj {
+    
+    background: white;
+    width:150px;
+    border-radius: 10px;
+    height: 30px;
+    font-family: maxsport;
+}
+
+#brendovi {
+    
+    width:100%;
+    height:200px;
+}
+#brendovi_drugi {
+    
+    width:100%;
+    height:200px;
+}
+
+footer {
+    
+    width:100%;
+    background: black;
+}
+
+#navigacija {
+    
+    float:left;
+    width:50%;
+    height: 300px;
+    text-align: center;
+
+}
+
+
+#lokacija {
+    
+    float:left;
+    width:50%;
+}
+
+
+#navigacija ul {
+    
+    text-align: center;
+    list-style-type: none;
+    padding-left: 120px;
+}
+
+
+#navigacija ul li a {
+    
+    text-decoration: none;
+}
+
+#navigacija ul li a:hover {
+    
+    color: #e3e319;
+}
+.razmak {
+    
+    padding-right:60px;
+}
+
+#navigacija ul li {
+    
+    color:white;
+    font-family: maxsport;
+}
+
+
+#navigacija ul li  a{
+    
+    color:white;
+}
+
+#lokacija {
+    
+    float:right;
+    width:50%;
+    text-align: center;
+    font-family: maxsport;
+    height: 300px;
+}
+
+#navigacija ul li h3 {
+    
+    padding-top: 20px;
+}
+
+
+#naslov {
+    padding-top: 20px;
+    color:white;
+    
+}
+.radnje {
+    
+    margin-top: 20px;
+    width:50%;
+    color:white;
+    float:left;
+}
+
+#futer_ikonice {
+    
+    width:100%;
+    text-align: center;
+}
+
+#futer_ikonice ul li{
+    
+    display: inline-block;
+    padding: 0px 11px;
+    
+}
+
+#futer_email{
+    
+    margin-top: 50px;
+}
+
+#futer_email p {
+    
+    color:white;
+}
+
+#futer_forma {
+    
+    float:left;
+    padding-left: 50px;
+}
+
+#mail {
+    margin-top: 15px;
+    width:250px;
+    height: 25px
+    
+}
+
+#btnMail {
+    
+    height: 30px; 
+    background-color: white;
+}
+
+
+
+#centar_forma {
+    
+    margin-top: 150px;
+    margin-bottom:150px;
+    background: black;
+}
+
+#forma {
+    
+    padding-top: 70px;
+    padding-left: 80px;
+    padding-bottom: 70px;
+    font-family: maxsport;
+    color:white;
+}
+
+
+table tr th {
+    
+    text-align: left;
+    padding-bottom: 10px;
+    font-size:30px;
+
+}
+
+table tr td input[type="text"] {
+    
+    width:400px;
+    height: 30px;
+    margin-bottom:20px;
+    margin-right: 10px;
+}
+
+table tr td h3 {
+    
+    padding-bottom: 7px;
+}
+
+table tr td input[type="submit"] {
+    
+    float: right;
+    margin-right: 10px;
+    width:230px;
+    height: 30px;
+    background: #e3e319;
+    font-family: maxsport;
+}
+
+#centar {
+    
+    height: 1000px;
+}
+
+#centar_autor {
+    
+    margin-top: 150px;
+    margin-bottom:150px;
+    display: flex;
+    background: black;
+
+}
+
+#tekst {
+    
+    width: 50%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 25%;
+    
+    
+}
+#anketa {
+    
+    width: 50%;
+}
+
+#autor_slika img{
+    
+    border-radius:20px;
+}
+
+#autor_tekst {
+    
+    margin-top: 30px;
+    width: 70%;
+    margin-left: 80px;
+    color: white;
+    
+}
+
+#autor_anketa {
+    
+/*    border: 1px solid red;*/
+    margin-top: 180px;
+    width:160px;
+    height:200px;
+    margin-left: 100px;
+    font-weight: bold;
+    color:white;
+
+}
+
+#autor_anketa p {
+    
+    font-size: 20px;
+    padding-left: 7px;
+    padding-top: 10px;
+}
+
+#anketa_forma input[type="radio"]{
+        margin: 5px;
+}
+
+#btnAnketa {
+    
+    width: 100px;
+    margin-top: 10px;
+}
+
+#copyright {
+    
+    color:white;
+    text-align: center;
+    padding-top: 10px
+}
+
+
+#mp_naslov {
+    
+    padding-top: 30px;
+    font-family: maxsport;
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+
+#mp_opcije {
+    
+    float:left;
+    width:15%;
+
+}
+
+#mp_opcije p {
+    
+    font-family: maxsport;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#mp_proizvodi {
+    
+    width:84%;
+    float:right;
+    display: inline-block;
+
+}
+
+.proizvod {
+    
+    width:24%;
+    padding: 20px 0 20px 0;
+    float:left;
+    text-align: center;
+    border: 1px solid #c8c8c8 ;
+    border-radius: 10px;
+}
+
+.proizvod p {
+    
+    text-align: center;
+    padding: 20px 0 20px 0;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.cena {
+    
+  
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#pretraga {
+    
+    width: 130px;
+}
+
+
+.proizvod img{
+    
+    width: 205px;
+}
+
+
+nav ul li ul li{
+    
+    margin-left: 0px;   
+}
+
+nav ul li ul li a {
+    
+    font-size: 18px;
+}
+
+
+
+.dropdown_ul {
+    
+    display: none;
+    position: absolute;
+    background-color: black;
+    width: 200px;
+    z-index: 100;
+}
+
+.dropdown_ul a {   
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown:hover .dropdown_ul {
+    
+    display: block;
+}
+.dropdown:hover .dropdown_ul {
+    
+    display: block;
+}
+
+#prikaz {
+	width:820px;
+    display: none;
+	margin-bottom: 20px;
+    font-family: sans-serif;
+}
+
+#prikaz ul li{
+    
+    color: white;
+    list-style-type: none;
+}
+
+#mail_greska {
+    
+    color:white;
+    font-family: sans-serif;
+    text-align: left;
+    padding-top: 15px;
+}
+
+#anketa_forma p {
+    
+    padding-top: 0px;
+      
+}
+
+#mp_sortiranje select{
+    
+    width: 100px;
+}
+
+#btnPretraga {
+    
+    width: 100px;
+    font-size: 14px;
+}
+
+
+#mp_sortiranje a{
+    
+    color: black;
+    text-decoration: none;
+    font-family: maxsport;
+
+}
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+#brendovi .sport_brend img{
+    
+    opacity: 0.5;
+}
+
+
+#brendovi_drugi .sport_brend_drugi img{
+    
+    opacity: 0.5;
+}
+
+#scrollToTop
+{
+	background:#e3e319;
+	padding:20px;
+	position:fixed;
+	right:10px;
+	bottom:10px;
+	display:none;
+}
+
+#copyright a{
+    
+    padding-left: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+

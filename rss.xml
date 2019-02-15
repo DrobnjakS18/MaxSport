@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss verison="2.0">
+
+	<channel>
+		<title>Max Sport - Sportska oprema</title>
+		<link></link>
+		<description>Najveci izbor sportske opreme po povoljnim cenama uz najveci moguci kvalitet.Samo u Max Sportu!</description>
+		
+	<item>
+		<title>Max Sport - Muske patike </title>
+		<link></link>
+		<description>Najveci izbor muskih patika po povoljnim cenama uz najveci moguci kvalitet.Samo u Max Sportu!</description>
+	</item>
+        
+    <item>
+		<title>Max Sport - Zenske patike </title>
+		<link></link>
+		<description>Najbolji izbor zenskih patika po najpovoljnim cenama u Srbiji.Samo u Max Sportu!</description>
+	</item>
+	
+	<item>
+		<title>Registracija</title>
+		<link></link>
+		<description>Registujte se na Max Sport i saznajte prvi sta vas sve ceka!</description>
+	</item>
+	</channel>
+</rss>

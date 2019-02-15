@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+ <url>
+
+      <loc>Pocetna</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+   
+ <url>
+
+      <loc>muske_patike</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   
+ <url>
+
+      <loc>lopte</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+    
+
+     
+ <url>
+
+      <loc>muske_majice</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+   
+<url>
+
+      <loc>muske_trenerke</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+     
+     
+<url>
+
+      <loc>zenske_patike</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+     
+<url>
+
+      <loc>zenske_torbe</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+<url>
+
+      <loc>zenske_majice</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+     
+     <url>
+
+      <loc>helanke</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+     
+ <url>
+
+      <loc>registracija</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+     
+      <url>
+
+      <loc>autor</loc>
+
+      <lastmod>2016-12-03</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+ </urlset>
